@@ -14,7 +14,7 @@ $(document).ready(function () {
       $(".scroll-up-btn").removeClass("show");
     }
   });
-
+1
   // ------------------------------ slide-up script ------------------------------ //
 
   $(".scroll-up-btn").click(function () {
@@ -46,7 +46,7 @@ $(document).ready(function () {
   });
 
   var typed = new Typed(".typing-2", {
-    strings: ["Frontend Dev", "Designer", "Freelancer", "Blogger", "YouTuber"],
+    strings: ["Frontend Dev"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
